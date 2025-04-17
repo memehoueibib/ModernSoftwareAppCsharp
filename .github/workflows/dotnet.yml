@@ -1,0 +1,30 @@
+name: .NET Build & Test
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout du code
+      uses: actions/checkout@v3
+
+    - name: Installer .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '9.0.x' 
+
+    - name: Restaurer les dépendances
+      run: dotnet restore ModernSoftwareApp.sln
+
+    - name: Build
+      run: dotnet build ModernSoftwareApp.sln --no-restore
+
+    - name: Tests unitaires
+      run: dotnet test ModernSoftwareApp.sln --no-build --verbosity normal
