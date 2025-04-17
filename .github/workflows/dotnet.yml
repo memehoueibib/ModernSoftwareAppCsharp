@@ -20,10 +20,10 @@ jobs:
         dotnet-version: '9.0.x'
 
     - name: 📦 Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ModernSoftwareApp.sln
 
     - name: 🧱 Build solution
-      run: dotnet build --no-restore
+      run: dotnet build ModernSoftwareApp.sln --no-restore
 
     - name: 🧪 Run unit tests
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test ModernSoftwareApp.sln --no-build --verbosity normal
