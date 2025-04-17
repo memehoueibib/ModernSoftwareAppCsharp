@@ -1,0 +1,12 @@
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/bin/Debug/net9.0/ModernSoftwareApp.deps.json
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/bin/Debug/net9.0/ModernSoftwareApp.dll
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/bin/Debug/net9.0/ModernSoftwareApp.pdb
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.AssemblyInfoInputs.cache
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.AssemblyInfo.cs
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.csproj.CoreCompileInputs.cache
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.sourcelink.json
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.dll
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/refint/ModernSoftwareApp.dll
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ModernSoftwareApp.pdb
+/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/obj/Debug/net9.0/ref/ModernSoftwareApp.dll

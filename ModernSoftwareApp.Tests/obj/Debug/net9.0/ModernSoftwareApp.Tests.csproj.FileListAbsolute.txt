@@ -104,9 +104,6 @@
 /Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_ModernSoftwareApp.Tests
 /Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/xunit.abstractions.dll
 /Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/xunit.runner.visualstudio.testadapter.dll
-/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/ModernSoftwareApp.deps.json
-/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/ModernSoftwareApp.runtimeconfig.json
-/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/ModernSoftwareApp
 /Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/ModernSoftwareApp.Tests.deps.json
 /Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/ModernSoftwareApp.Tests.runtimeconfig.json
 /Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/bin/Debug/net9.0/ModernSoftwareApp.Tests.dll
