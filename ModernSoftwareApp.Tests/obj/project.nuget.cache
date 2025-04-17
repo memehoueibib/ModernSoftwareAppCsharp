@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yJWZraveUYs=",
+  "dgSpecHash": "dUH4x6pJZQs=",
   "success": true,
-  "projectFilePath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
+  "projectFilePath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/macbpro/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/macbpro/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",

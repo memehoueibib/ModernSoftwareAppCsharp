@@ -960,11 +960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
+      "projectUniqueName": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
       "projectName": "ModernSoftwareApp.Tests",
-      "projectPath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
+      "projectPath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/ModernSoftwareApp.Tests.csproj",
       "packagesPath": "/Users/macbpro/.nuget/packages/",
-      "outputPath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareApp.Tests/obj/",
+      "outputPath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbpro/.nuget/NuGet/NuGet.Config"
@@ -979,8 +979,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareApp/ModernSoftwareApp.csproj": {
-              "projectPath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareApp/ModernSoftwareApp.csproj"
+            "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/ModernSoftwareApp.csproj": {
+              "projectPath": "/Users/macbpro/Downloads/MyAppClean/ModernSoftwareAppCsharp/ModernSoftwareApp/ModernSoftwareApp.csproj"
             }
           }
         }
