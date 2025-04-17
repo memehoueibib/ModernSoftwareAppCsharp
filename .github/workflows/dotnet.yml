@@ -30,3 +30,6 @@ jobs:
 
     - name: 🧪 Run unit tests
       run: dotnet test ModernSoftwareApp.sln --no-build --verbosity normal
+
+    - name: 🔐 Read secret
+      run: echo "Secret value is ${{ secrets.MY_SECRET }}"
