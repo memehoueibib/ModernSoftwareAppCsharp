@@ -8,23 +8,22 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout du code
+    - name: 📥 Checkout code
       uses: actions/checkout@v3
 
-    - name: Installer .NET
+    - name: 🛠 Install .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '9.0.x' 
+        dotnet-version: '9.0.x'
 
-    - name: Restaurer les dépendances
-      run: dotnet restore ModernSoftwareApp.sln
+    - name: 📦 Restore dependencies
+      run: dotnet restore
 
-    - name: Build
-      run: dotnet build ModernSoftwareApp.sln --no-restore
+    - name: 🧱 Build solution
+      run: dotnet build --no-restore
 
-    - name: Tests unitaires
-      run: dotnet test ModernSoftwareApp.sln --no-build --verbosity normal
+    - name: 🧪 Run unit tests
+      run: dotnet test --no-build --verbosity normal
